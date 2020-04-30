@@ -1,3 +1,3 @@
 # AnimatedDemo
-##Created for practicing GH
-this is a silly github repo demo
+Created for practicing GH.
+Just a silly github repo demo
